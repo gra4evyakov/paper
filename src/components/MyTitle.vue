@@ -28,8 +28,8 @@ import MyButton from './MyButton.vue';
 }
 .title_text {
     text-align: center;
-    font-size: 170px;
-    line-height: 200px;
+    font-size: 150px;
+    line-height: 150px;
     font-weight: 400;
     color: #FFF;
     margin-bottom: 30px;
@@ -39,7 +39,7 @@ import MyButton from './MyButton.vue';
     line-height: 38px;
     font-weight: 400;
     color: #FFF;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 @media screen and (max-width: 570px) {
     .title_text {
